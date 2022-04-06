@@ -4,3 +4,5 @@
 仓库的拥有者可以在左侧的about中的fork中查看fork记录
 
 小组成员提交pull request,仓库的管理者在Pull requests选项中进行处理
+
+组长最应该注意的是如何学会合并
